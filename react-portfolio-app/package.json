@@ -27,7 +27,7 @@
   "devDependencies": {
     "react-scripts": "^5.0.1"
   },
-  "homepage": "http://yourusername.github.io/react-portfolio-app",
+  "homepage": "/",
   "browserslist": {
     "production": [
       ">0.2%",
